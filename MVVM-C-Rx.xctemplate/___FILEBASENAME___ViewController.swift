@@ -28,6 +28,7 @@ extension ___VARIABLE_ModuleName___ViewController {
     //TO-DO: Bind UI Elements
 }
 
+// MARK: - UI Setup
 extension ___VARIABLE_ModuleName___ViewController {
     func setupUI() {
         
